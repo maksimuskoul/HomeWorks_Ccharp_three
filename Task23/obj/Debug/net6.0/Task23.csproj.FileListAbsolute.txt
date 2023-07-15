@@ -1,0 +1,15 @@
+/Library/GB/HomWork-2 C# 3/Task23/bin/Debug/net6.0/Task23
+/Library/GB/HomWork-2 C# 3/Task23/bin/Debug/net6.0/Task23.deps.json
+/Library/GB/HomWork-2 C# 3/Task23/bin/Debug/net6.0/Task23.runtimeconfig.json
+/Library/GB/HomWork-2 C# 3/Task23/bin/Debug/net6.0/Task23.dll
+/Library/GB/HomWork-2 C# 3/Task23/bin/Debug/net6.0/Task23.pdb
+/Library/GB/HomWork-2 C# 3/Task23/obj/Debug/net6.0/Task23.csproj.AssemblyReference.cache
+/Library/GB/HomWork-2 C# 3/Task23/obj/Debug/net6.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Library/GB/HomWork-2 C# 3/Task23/obj/Debug/net6.0/Task23.AssemblyInfoInputs.cache
+/Library/GB/HomWork-2 C# 3/Task23/obj/Debug/net6.0/Task23.AssemblyInfo.cs
+/Library/GB/HomWork-2 C# 3/Task23/obj/Debug/net6.0/Task23.csproj.CoreCompileInputs.cache
+/Library/GB/HomWork-2 C# 3/Task23/obj/Debug/net6.0/Task23.dll
+/Library/GB/HomWork-2 C# 3/Task23/obj/Debug/net6.0/refint/Task23.dll
+/Library/GB/HomWork-2 C# 3/Task23/obj/Debug/net6.0/Task23.pdb
+/Library/GB/HomWork-2 C# 3/Task23/obj/Debug/net6.0/Task23.genruntimeconfig.cache
+/Library/GB/HomWork-2 C# 3/Task23/obj/Debug/net6.0/ref/Task23.dll

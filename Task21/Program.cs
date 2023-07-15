@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// напишите программу которая принимает на вход
+// координаты 3 точек и находит растояние между ними в 3D пространстве
+
+
